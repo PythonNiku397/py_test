@@ -1,4 +1,5 @@
 # Sarcina nr. 1 "Sarcina Zoopark"
+
 # class Animal:
 #     def __init__(self, specie, an):
 #         self.specie = specie
