@@ -1,4 +1,5 @@
 # Sarcina nr. 1 "Sarcina Zoopark"
+
 # class Animal:
 #     def __init__(self, specie, an):
 #         self.specie = specie
@@ -16,7 +17,9 @@
 # Tigru = Mammal("Tigru", 14, "Belii Tigrr", "White Tiger", "ROAR-ROARRR")
 # Tigru.afisare_detalii()
 # Tigru.print_results()
+
 # Sarcina nr.2 "Sarcina Calculator Pentru Impartire"
+
 # class Calculator:
 #     def __init__(self, test1, test2):
 #         self.test1 = test1
